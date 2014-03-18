@@ -1,7 +1,0 @@
-# langage PROGRAMMATION C SOUS UNIX
-
-# MACHINE UBUNTU 
-
-# pour compiler: gcc spider.c -o spider
-
-# pour executer: ./spider "http://www.mon-site-web.ma"
